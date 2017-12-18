@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SAR Check In</string>
+    <string name="check_on">Check On</string>
+    <string name="pair_gotenna">Pair Gotenna</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="set_gotenna_id">Set Gotenna ID</string>
+    <string name="set_cp">Set CP</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="name_missing">Name is required</string>
+    <string name="phone_missing">Phone Number is required</string>
+</resources>
